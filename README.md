@@ -24,4 +24,5 @@ Processed the text data with the help of NLP techniques and used it together wit
 ## Future scopes ##
 
 1)More extended eda
+
 2)Implementing collaborative filtering based recommendation systems by gathering user data.
