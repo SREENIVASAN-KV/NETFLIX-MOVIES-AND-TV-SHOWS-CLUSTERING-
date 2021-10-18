@@ -12,16 +12,16 @@ In 2018, they released an interesting report which shows that the number of TV s
 6) Implemented a netflix recommendation system based on our K-Means clustering
 
 
-##Result##
+## Result ##
 
 
 Processed the text data with the help of NLP techniques and used it together with the categorical variables and performed clustering. Implemented a content based recommendation using K-Means clustering.
 
 
-##Challenges##
+## Challenges ##
 
 1)Tackling the text data and making it useful in the final modelling.
-##Future scopes##
+## Future scopes ##
 
 1)More extended eda
 2)Implementing collaborative filtering based recommendation systems by gathering user data.
